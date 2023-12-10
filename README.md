@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 Reach me at @aziahelias@gmail.com
+- 📫 Reach me at in/elias-tche
+
 
 <!---
 eliastche/eliastche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
